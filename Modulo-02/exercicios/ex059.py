@@ -7,11 +7,12 @@
 # [4] novos valores
 # [5] sair do programa
 
+from time import sleep
 n1 = int(input('Primeiro valor: '))
 n2 = int(input('Segundo valor: '))
 opcao = 0
 while opcao != 5:
-    print('''  [1] somar
+    print('''    [1] somar
     [2] multiplicar
     [3] maior
     [4] novos valores
@@ -38,4 +39,5 @@ while opcao != 5:
     else:
         print('Opção inválida. Tente novamente.')
     print('=-=' * 10)
+    sleep(1)
 print('FIm do programa! Volte sempre!')
