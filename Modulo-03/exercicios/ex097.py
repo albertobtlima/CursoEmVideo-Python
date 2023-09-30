@@ -9,5 +9,5 @@ def escreva(msg):
     print('~' * tam)
 
 
-m = str(input('Digite uma mensagem: '))
-escreva(m)
+mens = str(input('Digite uma mensagem: '))
+escreva(mens)
