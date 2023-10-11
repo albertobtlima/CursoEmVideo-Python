@@ -6,8 +6,6 @@
 # b) de 10 até 0, de 2 em 2.
 
 from time import sleep
-
-
 def contador(i, f, p):
 
     if p < 0:
