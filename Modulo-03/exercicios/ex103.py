@@ -10,7 +10,7 @@ def ficha(jog='<desconhecido>', gols=0):
 nome = str(input("Nome do jogador: "))
 gol = str(input("Número de gols: "))
 if nome.isnumeric():
-    nome = ''
+    nome = 'Camisa ' + nome
 if gol.isnumeric():
     gol = int(gol)
 else:
