@@ -23,7 +23,7 @@ def fatorial(num, show):
 
 
 num = int(input('Digite um número: '))
-resp = str(input('Quer ver o calculo? [S/N] ')).upper()
+resp = str(input('Exibir o calculo? [S/N] ')).upper()
 if resp == 'S':
     show = True
 else:
