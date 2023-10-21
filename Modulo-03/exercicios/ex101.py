@@ -1,3 +1,4 @@
+# Exercício 101
 # Crie um programa que tenha uma função chamada voto() que vai receber como parâmetro o ano de
 # nascimento de uma pessoa, retornando uma valor literal indicando se uma pessoa  tem voto
 # Negado, Opcional ou Obrigatório nas eleições.
