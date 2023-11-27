@@ -1,11 +1,11 @@
 def aumentar(preco=0, taxa=0, formato=False):
     """
-    -> Calcula o aumento de um determinado preço, retornando o resultado com ou sem formatação.
-    :param preco: o preço que se quer reajustar.
-    :param taxa: qual é a porcetagem do aumento.
-    :param formato: quer a saída formatada ou não.
-    :return: o valor reajustado, com ou sem formatação.
-    """
+       -> Calcula o aumento de um determinado preço, retornando o resultado com ou sem formatação.
+       :param preco: o preço que se quer reajustar.
+       :param taxa: qual é a porcetagem do aumento.
+       :param formato: quer a saída formatada ou não.
+       :return: o valor reajustado, com ou sem formatação.
+       """
     res = preco + (preco * taxa/100)
     return res if formato is False else moeda(res)
 
