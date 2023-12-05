@@ -8,22 +8,22 @@ Curso dividido em 3 módulos com carga horaria total de 120 horas, contendo 23 a
   <li>
     Módulo 01 - 40 horas
     <ul>
-      <li>Aulas - 10</li>
-      <li>Exercícios - 35</li>
+      <li>10 Aulas</li>
+      <li>35 Exercícios</li>
     </ul>
   </li>
    <li>
     Módulo 02 - 40 horas 
     <ul>
-      <li>Aulas - 05</li>
-      <li>Exercícios - 36</li>
+      <li>05 Aulas</li>
+      <li>36 Exercícios</li>
     </ul>
   </li>
    <li>
     Módulo 03 - 40 horas
     <ul>
-      <li>Aulas - 08</li>
-      <li>Exercícios - 44</li>
+      <li>08 Aulas</li>
+      <li>44 Exercícios</li>
     </ul>
   </li>
 </ul>
